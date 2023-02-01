@@ -73,6 +73,7 @@ html {
 #home{
     display: flex;
     flex-direction: column;
+    height: 400px;
     padding: 3px 200px;
     justify-content: center;
     align-items: center;
